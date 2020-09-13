@@ -1,5 +1,7 @@
 # Scale-Equivariant Steerable Networks
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/scale-equivariant-steerable-networks-1/image-classification-on-stl-10)](https://paperswithcode.com/sota/image-classification-on-stl-10?p=scale-equivariant-steerable-networks-1)
+
 This is the code for reproducing the experiments from the paper: 
 
 **Ivan Sosnovik, Michał Szmaja, and Arnold Smeulders** [Scale-Equivariant Steerable Networks](https://arxiv.org/abs/1910.11093), ICLR 2020.
